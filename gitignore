@@ -1,0 +1,13 @@
+# Xcode
+.DS_Store
+*/build/*
+xcuserdata
+DerivedData
+.idea/
+*.hmap
+*.xccheckout
+*.xcworkspace
+!default.xcworkspace
+
+#CocoaPods
+.Pods/
