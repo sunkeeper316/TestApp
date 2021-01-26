@@ -6,5 +6,13 @@ target 'TestApp' do
   use_frameworks!
 
   # Pods for TestApp
+pod 'Charts'
+pod 'FBSDKLoginKit'
+pod 'GoogleSignIn'
+pod 'Firebase'
+pod 'Firebase/Auth'
 
+pod 'RxSwift'
+pod 'RxCocoa'
+pod 'RxDataSources'
 end
